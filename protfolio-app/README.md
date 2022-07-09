@@ -27,7 +27,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## deployed application
 
-https://tianchouportfolio-app.herokuapp.com/
+https://calm-cove-75362.herokuapp.com/
 
 ## Contributor
 
